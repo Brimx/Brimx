@@ -174,8 +174,8 @@ I like knowing not only what a tool does, but also **why it behaves the way it d
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brimx&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brimx&layout=compact&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -183,7 +183,7 @@ I like knowing not only what a tool does, but also **why it behaves the way it d
 ## 📫 Find me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Brimx">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
