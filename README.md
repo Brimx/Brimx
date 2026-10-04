@@ -2,7 +2,7 @@
 
 # Hi, I'm Santiago 👋
 
-### Systems Engineering Student · Software Developer · Linux enthusiast
+### Systems Engineering Student · Software Developer · Curious builder
 
 I enjoy building software, understanding how things work underneath, and turning ideas into practical projects.
 
@@ -27,7 +27,6 @@ I'm constantly exploring new documentation, frameworks, libraries, APIs, and too
   <img src="https://img.shields.io/badge/Flet-000000?style=flat&logo=python&logoColor=white" alt="Flet">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 I also work with **APIs, external services, project-specific frameworks and libraries, data integration, and web technologies** depending on what a project requires.
@@ -86,6 +85,18 @@ Sometimes the most important part of a feature is discovering that the obvious i
 
 ---
 
+## 🖥️ Environment & experimentation
+
+I work across **Windows and Linux**, which helps me think about software beyond a single environment and consider portability when building projects.
+
+On Linux, I use **Hyprland** and enjoy experimenting with my environment, modifying configurations, and building my own customizations rather than simply using everything as it comes out of the box.
+
+I'm naturally curious about the systems I use, so I tend to explore how they work, change things, break things occasionally, and then figure out why they broke.
+
+That curiosity also influences how I approach software: I like understanding **what is happening underneath the interface**, not only whether something works.
+
+---
+
 ## 🚧 What I'm building
 
 ### 🎵 Melomaniac
@@ -102,7 +113,7 @@ The project is an ongoing experiment in building a complete application while ke
 
 ## 📚 Currently focusing on
 
-**C# and object-oriented programming, improving software architecture and modular design, building cleaner and more maintainable applications, UI/UX and design systems for software, API integration and service-based applications, Linux development workflows, and continuously improving my understanding of the tools I use.**
+**C# and object-oriented programming, improving software architecture and modular design, building cleaner and more maintainable applications, UI/UX and design systems for software, API integration and service-based applications, cross-platform development, and continuously improving my understanding of the tools I use.**
 
 ---
 
