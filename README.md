@@ -53,15 +53,15 @@ Features **layered architecture, MVC, SQLite, role-based workflows, scheduling, 
 
 **C#, software architecture, API integration, UI/UX, cross-platform development, and better development workflows.**
 
+--- 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Brimx&show_icons=true&hide_border=true&rank_icon=github&card_width=420"
-    width="420"
-    alt="GitHub Stats"
-  >
+    src="https://github-readme-stats.vercel.app/api?username=Brimx&show_icons=true&hide_border=true&rank_icon=github"
+    height="180"
+  />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brimx&layout=compact&hide_border=true&card_width=420"
-    width="420"
-    alt="Top Languages"
-  >
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brimx&layout=compact&hide_border=true"
+    height="180"
+  />
 </p>
