@@ -4,33 +4,36 @@
 
 ### Systems Engineering Student · Software Developer · Curious builder
 
-I build software, explore how things work underneath, and turn ideas into practical projects.
+I'm a Systems Engineering student focused on building software across **Python, C#, C++, and Java**, with experience working on **desktop applications, APIs, data integration, modular architecture, and UI/UX**. I enjoy designing systems with clear boundaries, reusable components, appropriate abstractions, and interfaces that feel as intentional as the code behind them.
 
-<p align="center">
-  <strong>Languages</strong>
-  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <strong>Development</strong>
-  <br><br>
+I like understanding things beyond the surface. When I encounter something I don't know, I research the documentation, explore the available tools and limitations, test different approaches, and work out how it actually behaves before deciding how to use it. I care about **learning quickly, solving problems independently, and constantly improving the way I build software**.
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-
-    |    
-
-  <img src="https://img.shields.io/badge/Flet-000000?style=flat&logo=python&logoColor=white" alt="Flet">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Development</strong></td>
+    <td align="center"><strong>Environment</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flet-000000?style=flat&logo=python&logoColor=white" alt="Flet">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+    </td>
+  </tr>
+</table>
 
 </div>
-
-## About me
-
-I'm interested in **software architecture, APIs, UI/UX, modular design, and maintainable code**.
-
-I enjoy learning by building, researching documentation and technical constraints, and experimenting across **Windows and Linux**.
 
 ## Selected projects
 
@@ -38,7 +41,7 @@ I enjoy learning by building, researching documentation and technical constraint
 
 A desktop application for transferring and rebuilding playlists across **YouTube Music, Apple Music, and Spotify**.
 
-Built with **Python and Flet**, with a focus on APIs, matching, caching, resilience, architecture, and UI/UX.
+Built with **Python and Flet**, combining APIs, matching, caching, resilience, architecture, and UI/UX.
 
 ### 🩺 [Kairos](https://github.com/Brimx/Kairos)
 
@@ -46,7 +49,7 @@ A desktop medical appointment management system built with **Java and JavaFX**.
 
 Features **layered architecture, MVC, SQLite, role-based workflows, scheduling, validation, and persistent data management**.
 
-## Exploring
+## Currently exploring
 
 **C#, software architecture, API integration, UI/UX, cross-platform development, and better development workflows.**
 
